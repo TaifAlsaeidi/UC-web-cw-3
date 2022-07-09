@@ -1,0 +1,17 @@
+h1{
+    font-family:monospace ;
+    
+}
+
+.container{
+    width: 500px;
+    background-color: aqua;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    margin: 1px;
+    border-radius:  10px;
+}
